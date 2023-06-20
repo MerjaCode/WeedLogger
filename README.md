@@ -1,4 +1,4 @@
 # WeedLogger
 
 ## Wiring
-!(./assets/gpsLogger_bb.png)[Wiring diagram]
+![Wiring diagram](./assets/gpslogger_bb.png)
