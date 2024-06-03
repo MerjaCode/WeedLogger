@@ -25,6 +25,8 @@ File logfile;
 
 bool isValidEntry;
 
+/* OLD const char swtchPins[9] = {5, 7, 8, 9, A0, A1, A2, A3, A4};
+const char* headers = "LAT,LONG,DATE,ZTIME,Cheat,Rock,CT,Gopher-Rut-Saw,Hoat,Rye-GG,Moat,K-PL-RK,MG"; */
 const char swtchPins[9] = {5, 7, 8, 9, A0, A1, A2, A3, A4};
 const char* headers = "LAT,LONG,DATE,ZTIME,Cheat,Rock,CT,Gopher-Rut-Saw,Hoat,Rye-GG,Moat,K-PL-RK,MG";
 // char *gpsHeader = "";
